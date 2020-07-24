@@ -8,8 +8,8 @@ I'm also into functional programming, Rust and Haskell.
 I've worked with Android for several years, most of them at [Airbnb](https://airbnb.com), 
 but right now I'm taking a break from full time mobile development, focusing instead on 
 backend development at [Stripe](https://stripe.com) and building [a new project](https://stocks.dog) 
-for the stock market and investing. I'm looking to collaborate on that and some other of my 
-side projects!
+for the stock market and investing. I'm looking to collaborate on that and other side projects,
+so please get in touch if you're interested!
 
 You can reach out to me via e-mail and I'll try my best to get back to you. If at first I
 don't reply, try emailing me again 🙂. You can ask me about carrer in tech, diversity, 
