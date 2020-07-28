@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá!
 
 I'm Felipe and I currently live in Seattle, where I'm often hanging out with my dog Chaves, 
 my girlfriend, playing soccer or writing code. I'm enthusiastic about modern programming 
