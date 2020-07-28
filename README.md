@@ -11,10 +11,9 @@ backend development at [Stripe](https://stripe.com) and building [a new project]
 for the stock market and investing. I'm looking to collaborate on that and other side projects,
 so please get in touch if you're interested!
 
-You can reach out to me via e-mail and I'll try my best to get back to you. If at first I
-don't reply, try emailing me again 🙂. You can ask me about carrer in tech, diversity, 
-being a latino 🇧🇷 living in the US, keto, investing or anything else that you might find
-interesting!
+You can reach out to me via e-mail. I always reply emails sent by humans. You can ask 
+me about carrer in tech, diversity, being a latino 🇧🇷 living in the US, keto, investing or 
+anything else that you might find interesting!
 
 I'm also into contributing to open source. Sometimes I write short articles on 
 [my blog](https://felipecsl.com).
