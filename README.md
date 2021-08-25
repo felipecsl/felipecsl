@@ -8,8 +8,7 @@ Ruby and Typescript. I'm also into functional programming, Rust and Haskell.
 I've worked with Android for several years, most of them at [Airbnb](https://airbnb.com).
 Most recently, I've worked at [Stripe](https://stripe.com) building payments infrastructure.
 
-Right now, I'm taking a break from full-time work to focus on learning and experimenting 
-with personal projects.
+I currently work at @quiknode-labs building the future of internet and web3.
 
 You're welcome to reach out to me via e-mail. I usually reply to non-spammy e-mails sent by 
 humans. You can ask me, for example, about starting a carrer in tech, diversity, being a 
