@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 I'm Felipe and I currently live in Seattle 🌧, where I'm often climbing, running, biking, 
-hanging out with my girlfriend, playing soccer or writing code. I'm enthusiastic about 
+hanging out with my fiancee, playing soccer or writing code. I'm enthusiastic about 
 modern programming languages with sound type systems. Nowadays I mostly write Kotlin, 
 Ruby and Typescript. I'm also into functional programming, Rust and Haskell.
 
