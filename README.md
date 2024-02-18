@@ -12,9 +12,9 @@ Most recently, I've worked at:
 and [token APIs](https://www.quicknode.com/token-api)
 * [Alza](https://alza.app) building a neobank for the latino population in the US
 
-I'm currently taking a break from full-time work to spend time reading, reasearching,
+I'm currently taking a break from full-time work to spend time reading, researching,
 exploring new technologies and working on [Huskly Finance](https://huskly.finance).
 
-I'm also a regular contributor to open source and write semi-regularly on [my blog](https://felipe.lima.gl).
+I'm also a regular contributor to open source and write semi-regularly write on [my blog](https://felipe.lima.gl).
 
 Cheers! ☕
