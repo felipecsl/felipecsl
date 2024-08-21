@@ -4,8 +4,8 @@ I'm Felipe and I often split my time between US and Brazil.
 I'm enthusiastic about functional programming.
 My go-to languages these days are usually Kotlin, Ruby or Typescript.
 
-I currently work at @Eppo-exp on experimentation, analysis, feature flagging and building their SDKs
-Occasionally I hack on [Huskly Finance](https://huskly.finance).
+I currently work at [Eppo](https://geteppo.com) on experimentation, analysis, feature flagging and building their SDKs.
+Occasionally, I hack on [Huskly Finance](https://huskly.finance).
 
 Places I've recently worked at:
 
