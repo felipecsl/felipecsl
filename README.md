@@ -9,7 +9,7 @@ Occasionally, I hack on [Huskly Finance](https://huskly.finance).
 
 Places I've recently worked at:
 
-* [Alza](https://alza.app) building a neobank for the latino population in the US (2023)
+* [Alza](https://alza.app) (now defunct) building a neobank for the latino population in the US (2023)
 * [QuickNode](https://quicknode.com) building their [Ethereum NFT](https://www.quicknode.com/nft-api) 
 and [token APIs](https://www.quicknode.com/token-api) (2022)
 * [Stripe](https://stripe.com) building payments infra for Latin America (2019-2021)
